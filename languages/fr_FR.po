@@ -1,0 +1,1138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: retrotube\n"
+"Report-tion-Date: 2016-05-12 22:11+0100\n"
+"PO-Revision-Date: 2018-01-16 16:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: /home/fulgor/GIT/bones\n"
+"Last-Translator: wp-script <contact@wp-script.com>\n"
+"X-Poedit-SearchPath-0: /home/fulgor/GIT/bones\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-16 16:54+0000\n"
+"Language-Team: French (France)\n"
+"Language: fr-FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"X-Generator: Loco - https://localise.biz/"
+
+msgid ""
+"This Theme needs <a href=\"%s\" target=\"_blank\">WP-Script Core</a> to be "
+"installed and activated."
+msgstr ""
+"Ce thème a besoin du plugin <a href=\"%s\" target=\"_blank\">WP-Script "
+"Core</a> pour être installé et activé."
+
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops ! Cette page n'existe pas."
+
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Il semblerait que ce que vous recherchez n'existe pas ici. N'hésitez pas à "
+"effectuer une autre recherche :"
+
+msgid "videos"
+msgstr "vidéos"
+
+msgid "Videos by:"
+msgstr "Vidéos par :"
+
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr "Une réponse sur &ldquo;%2$s&rdquo;"
+
+msgid "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr "%1$s réponses sur &ldquo;%2$s&rdquo;"
+
+msgid "Comment navigation"
+msgstr "Navigation commentaires"
+
+msgid "Older Comments"
+msgstr "Anciens commentaires"
+
+msgid "Newer Comments"
+msgstr "Nouveaux commentaires"
+
+msgid "Comments are closed."
+msgstr "Les commentaires sont clos."
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Website"
+msgstr "Site internet"
+
+msgid "Comment"
+msgstr "Commentaire"
+
+msgid "No image"
+msgstr "Pas d'image"
+
+msgid "Nothing found"
+msgstr "Aucun résultat"
+
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé mais aucun résultat ne correspond à votre recherche. Merci d'essayer "
+"avec d'autres mots clés."
+
+msgid "Search results for:"
+msgstr "Résultats de recherche pour :"
+
+msgid "Search results for: %s"
+msgstr "Résultats de recherche pour : %s"
+
+msgid "Thanks for submitting a video! Your submission is being moderated."
+msgstr "Merci d'avoir envoyé une vidéo ! Elle est en cours de modération."
+
+msgid "Captcha verification failed, please try again."
+msgstr "La vérification du code de sécurité a échouée. Merci de recommencer."
+
+msgid "Please click on the reCAPTCHA box."
+msgstr "Merci de cliquer sur la boite reCAPTCHA"
+
+msgid "Video infos"
+msgstr "Infos de la vidéo"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Video type"
+msgstr "Type de vidéo"
+
+msgid "Video URL"
+msgstr "URL de la vidéo"
+
+msgid "Iframe / Embed code"
+msgstr "Iframe / Embed code"
+
+msgid "Video details"
+msgstr "Détails de la vidéo"
+
+msgid "Thumbnail URL"
+msgstr "URL de la vignette"
+
+msgid "Category"
+msgstr "Catégorie"
+
+msgid "Duration"
+msgstr "Durée"
+
+msgid "hour"
+msgstr "heure"
+
+msgid "min"
+msgstr "min"
+
+msgid "sec"
+msgstr "sec"
+
+msgid "Submit a video"
+msgstr "Envoyer une vidéo"
+
+msgid ""
+"You must be logged to submit a video. Please <a href=\"%s\">login</a> or <a "
+"href=\"%s\">register</a> a new account."
+msgstr ""
+"Vous devez être connecté(e) pour envoyer une vidéo. Merci de vous <a "
+"href=\"%s\">connecter</a> ou <a href=\"%s\">créer un compte</a>."
+
+msgid "Video submission is disabled."
+msgstr "L'envoi de vidéo est désactivé."
+
+msgid "Join %s"
+msgstr "Rejoindre %s"
+
+msgid "Username"
+msgstr "Identifiant"
+
+msgid "The passwords you entered do not match. Your password was not updated."
+msgstr ""
+"Les mots de passe que vous avez entrés ne correspondent pas. Votre mot de "
+"passe n'a pas été modifié."
+
+msgid "The Email you entered is not valid. Please try again."
+msgstr ""
+"L'adresse email que vous avez entrée n'est pas valide. Merci de réessayer."
+
+msgid "This email is already used by another user. Try a different one."
+msgstr "Cette adresse email est déjà utilisée. Merci d'en essayer une autre."
+
+msgid "Your profile has been updated."
+msgstr "Votre profil a été mis à jour."
+
+msgid "First Name"
+msgstr "Prénom"
+
+msgid "Last Name"
+msgstr "Nom"
+
+msgid "Display Name as"
+msgstr "Afficher nom en tant que"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Repeat Password"
+msgstr "Répéter mot de passe"
+
+msgid "Biographical Information"
+msgstr "Biographie"
+
+msgid "Update your profile"
+msgstr "Mettre à jour votre profil"
+
+msgid "Loading..."
+msgstr "Chargement..."
+
+msgid "Sign up"
+msgstr "S'enregister"
+
+msgid "Login"
+msgstr "Se connecter"
+
+msgid "Register"
+msgstr "Créer un compte"
+
+msgid "Don't have an account?"
+msgstr "Pas encore de compte ?"
+
+msgid "Already have an account?"
+msgstr "Vous avez déjà un compte ?"
+
+msgid "Lost Password?"
+msgstr "Mot de passe perdu ?"
+
+msgid "Reset Password"
+msgstr "Réinitialiser le mot de passe"
+
+msgid "Logout"
+msgstr "Déconnexion"
+
+msgid "My channel"
+msgstr "Ma chaîne"
+
+msgid ""
+"Enter the username or e-mail you used in your profile. A password reset link "
+"will be sent to you by email."
+msgstr ""
+"Entrez l'identifiant ou l'adresse email utilisée pour votre profil. Un lien "
+"de réinitialisation de mot de passe vous sera envoyé par email."
+
+msgid "Username or E-mail"
+msgstr "Identifiant ou Email"
+
+msgid "Get new password"
+msgstr "Obtenir un nouveau mot de passe"
+
+msgid "Login access is disabled"
+msgstr "La connexion est désactivée"
+
+msgid "Session token has expired, please reload the page and try again"
+msgstr "La session a expiré. Veuillez recharger la page et réessayer."
+
+msgid "Please fill all form fields"
+msgstr "Merci de remplir tous les champs"
+
+msgid "Login successful, reloading page..."
+msgstr "Connexion réussie, rechargement de la page..."
+
+msgid "Registration complete. You can now login."
+msgstr "Création de compte terminée. Vous pouvez maintenant vous connecter."
+
+msgid "Password Reset. Please check your email."
+msgstr "Mot de passe réinitialisé. Merci de vérifier vos emails."
+
+msgid "Please enter a username or e-mail address."
+msgstr "Veuillez entrer un identifiant ou une adresse email."
+
+msgid "There is no user registered with that email address."
+msgstr "Il n'y a aucun utilisateur enregistré avec cette adresse email."
+
+msgid "Invalid username or e-mail."
+msgstr "Identifiant ou adresse email invalide."
+
+msgid "Password reset is not allowed for this user"
+msgstr ""
+"La réinitialisation de mot de passe est désactivée pour cet utilisateur"
+
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+"Quelqu'un a demandé une réinitialisation de mot de passe pour le compte "
+"suivant :"
+
+msgid "Username: %s"
+msgstr "Identifiant : %s"
+
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "Si c'est une erreur, merci d'ignorer cet email."
+
+msgid "To reset your password, visit the following address:"
+msgstr "Pour réinitialiser votre mot de passe, veuillez vous rendre ici :"
+
+msgid "[%s] Password Reset"
+msgstr "[%s] Réinitialisation mot de passe"
+
+msgid ""
+"The e-mail could not be sent.<br />Possible reason: your host may have "
+"disabled the mail() function."
+msgstr ""
+"L'email n'a pas pu être envoyé.<br />Raison possible : il se peut que votre "
+"hébergeur ait désactivé la fonction mail()."
+
+msgid "Login to %s"
+msgstr "Se connecter à %s"
+
+msgid "Thank you!"
+msgstr "Merci !"
+
+msgid "Main Menu"
+msgstr "Menu principal"
+
+msgid "First"
+msgstr "Premier"
+
+msgid "Previous"
+msgstr "Dernier"
+
+msgid "Next"
+msgstr "Suivant"
+
+msgid "Last"
+msgstr "Dernier"
+
+msgid "I like this"
+msgstr "J'aime ça"
+
+msgid "I dislike this"
+msgstr "Je n'aime pas ça"
+
+msgid "Like"
+msgstr "J'aime"
+
+msgid "Homepage"
+msgstr "Accueil"
+
+msgid "Display widgets on your homepage."
+msgstr "Afficher les widgets sur votre page d'accueil"
+
+msgid "Sidebar"
+msgstr "Colonne"
+
+msgid "Display widgets in your sidebar."
+msgstr "Afficher des widgets dans votre colonne."
+
+msgid "Under the video"
+msgstr "Sous la vidéo"
+
+msgid "Display widgets under the video in your single video pages."
+msgstr "Afficher des widgets sous la vidéo dans vos pages vidéo."
+
+msgid "Footer"
+msgstr "Footer"
+
+msgid "Display widgets in your footer."
+msgstr "Afficher des widgets dans votre footer."
+
+msgid "Latest videos"
+msgstr "Dernières vidéos"
+
+msgid "Most viewed videos"
+msgstr "Vidéos les plus vues"
+
+msgid "Longest videos"
+msgstr "Vidéos les plus longues"
+
+msgid "Popular videos"
+msgstr "Vidéos populaires"
+
+msgid "Random videos"
+msgstr "Vidéos aléatoires"
+
+msgid "Related videos"
+msgstr "Vidéos relatives"
+
+msgid "Show more related videos"
+msgstr "Voir plus de vidéos relatives"
+
+msgid "More videos"
+msgstr "Plus de vidéos"
+
+msgid "Read more"
+msgstr "Lire la suite"
+
+msgid "Search..."
+msgstr "Recherche..."
+
+msgid "Edit %s"
+msgstr "Modifier %s"
+
+msgid "Follow me on:"
+msgstr "Me suivre sur :"
+
+msgid "Welcome"
+msgstr "Bienvenue"
+
+msgid "Submit a Video"
+msgstr "Envoyer une Vidéo"
+
+msgid "My Channel"
+msgstr "Ma Chaîne"
+
+msgid "My Profile"
+msgstr "Mon Profil"
+
+msgid "Welcome Guest"
+msgstr "Bienvenue Visiteur"
+
+msgid "About"
+msgstr "A propos"
+
+msgid "Share"
+msgstr "Partager"
+
+msgid "views"
+msgstr "vues"
+
+msgid "From"
+msgstr "De"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Featured"
+msgstr "En vedette"
+
+msgid "Video information"
+msgstr "Informations vidéo"
+
+msgid "Will be displayed in the carousel on your homepage."
+msgstr "Sera affiché dans le carrousel sur votre page d'accueil."
+
+msgid ""
+"Paste here the video URL (<strong>MP4</strong>, <strong>YouTube</strong> or "
+"<strong>Google Drive</strong> link) or upload a video file. It will be "
+"played with %s player."
+msgstr ""
+"Collez ici l'URL de la vidéo (lien <strong>MP4</strong>, <strong>"
+"YouTube</strong> ou <strong>Google Drive</strong>) ou téléchargez une vidéo. "
+"Elle sera lue par le lecteur %s."
+
+msgid "Video embed code"
+msgstr "Code embed vidéo"
+
+msgid ""
+"Paste here the embed code (eg. YouTube iframe). It will automatically "
+"display the video player in the front of your site."
+msgstr ""
+"Collez ici le code embed (ex. iframe YouTube). Le lecteur s'affichera "
+"automatiquement sur votre site."
+
+msgid "Video shortcode"
+msgstr "Shortcode vidéo"
+
+msgid ""
+"Paste here the video shortcode (eg. [TM plugin=\"https://drive.google.com/..."
+"\"]). It will automatically display the video player in the front of your "
+"site."
+msgstr ""
+"Collez ici le shortcode vidéo (ex. [TM plugin=\"https://drive.google.com/..."
+"\"]). Le lecteur s'affichera automatiquement sur votre site."
+
+msgid "Main thumbnail"
+msgstr "Vignette principale"
+
+msgid ""
+"Paste here the main thumb URL or upload an image file. If there isn't a "
+"featured image, this image will be used as main thumb."
+msgstr ""
+"Collez ici l'URL de la vignette principale ou téléchargez une image. Si cet "
+"article n'a pas d'image à la une, cette image sera utilisée en tant que "
+"vignette principale."
+
+msgid "Thumbnails"
+msgstr "Vignettes"
+
+msgid "Used for thumbnails rotation."
+msgstr "Utilisées pour la rotation de vignettes."
+
+msgid "Tracking URL"
+msgstr "URL de tracking"
+
+msgid ""
+"Paste here the tracking URL you want to display as link under the video in "
+"the front of your site (http://...)."
+msgstr ""
+"Collez ici l'URL de tracking que vous souhaitez afficher comme lien sous la "
+"vidéo sur votre site (http://...)."
+
+msgid "Create Video Submit page"
+msgstr "Créer une page Envoyer une vidéo"
+
+msgid "This action will create a \"Submit a Video\" page in your admin."
+msgstr "Cette action va créer une page \"Envoyer une vidéo\" dans votre admin."
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Confirm"
+msgstr "Confirmer"
+
+msgid "Create My Profile page"
+msgstr "Créer une page Mon Profil"
+
+msgid "This action will create a \"My profile\" page in your admin."
+msgstr "Cette action va créer une page \"Mon Profil\" dans votre admin."
+
+msgid "Create Categories page"
+msgstr "Créer une page Catégories"
+
+msgid "This action will create an illustrated categories page in your admin."
+msgstr ""
+"Cette action va créer une page de catégories illustrées dans votre admin."
+
+msgid "Create Tags page"
+msgstr "Créer une page Mots clés"
+
+msgid "This action will create a tags list page in your admin."
+msgstr "Cette action va créer une page de liste de mots clés dans votre admin."
+
+msgid "Create Actors page"
+msgstr "Créer une page Acteurs"
+
+msgid "This action will create an actors list page in your admin."
+msgstr "Cette action va créer une page de liste d'acteurs dans votre admin."
+
+msgid "Create Menu"
+msgstr "Créer Menu"
+
+msgid "This action will create a menu in your admin."
+msgstr "Cette action va créer un menu dans votre admin."
+
+msgid "Create Widgets"
+msgstr "Créer Widgets"
+
+msgid "This action will integrate video block widgets in your admin."
+msgstr "Cette action va intégrer des widgets bloc vidéo dans votre admin."
+
+msgid "Theme Options"
+msgstr "Theme Options"
+
+msgid "General"
+msgstr "Général"
+
+msgid "Visual options"
+msgstr "Options visuelles"
+
+msgid "Logo & Favicon"
+msgstr "Logo & Favicon"
+
+msgid "Header"
+msgstr "Header"
+
+msgid "Content"
+msgstr "Contenu"
+
+msgid "Membership"
+msgstr "Membres"
+
+msgid "Advertising"
+msgstr "Publicité"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Tools"
+msgstr "Outils"
+
+msgid "Import/Export"
+msgstr "Import/Export"
+
+msgid "Number of videos per page"
+msgstr "Nombre de vidéos par page"
+
+msgid "videos / page"
+msgstr "vidéos / page"
+
+msgid "Number of videos per row"
+msgstr "Nombre de vidéos par ligne"
+
+msgid "videos / row"
+msgstr "vidéos / ligne"
+
+msgid "Enable thumbnails rotation"
+msgstr "Activer la rotation des vignettes"
+
+msgid "Enable thumbnails rotation to see a preview of the video on mouseover."
+msgstr ""
+"Active la rotation des vignettes pour voir un aperçu de la vidéo au survol "
+"de la souris."
+
+msgid "Enable views system"
+msgstr "Activer système de vues"
+
+msgid ""
+"Display number of views on thumbnails, under the video player and add a "
+"\"Most viewed videos\" filter."
+msgstr ""
+"Affiche un nombre de vues sur les vignettes, sous la vidéo et ajoute un "
+"filtre \"Vidéos les plus vues\"."
+
+msgid "Enable duration system"
+msgstr "Activer le système de durée"
+
+msgid "Display duration on thumbnails, and add a \"Longest videos\" filter."
+msgstr ""
+"Affiche une durée sur les vignettes et ajoute un filtre \"Vidéos les plus "
+"longues\"."
+
+msgid "Enable rating system"
+msgstr "Activer système de vote"
+
+msgid ""
+"Display a rating bar with percentage under thumbnails, a rating system under "
+"the video player, and add a \"Popular videos\" filter."
+msgstr ""
+"Affiche une barre de vote avec pourcentage sous les vignettes, un système de "
+"vote sous la vidéo et ajouter un filtre \"Vidéos populaires\"."
+
+msgid "Enable breadcrumbs"
+msgstr "Activer le fil d’Ariane"
+
+msgid ""
+"Display a breadcrumb at the top of each pages of your site to allow your "
+"visitors to navigate more easily."
+msgstr ""
+"Affiche un fil d'Ariane au début de chaque page pour permettre à vos "
+"visiteurs de naviguer plus facilement."
+
+msgid "Enable comments"
+msgstr "Activer les commentaires"
+
+msgid "Display a comments section in your single video pages."
+msgstr "Affiche une section commentaires sur vos pages vidéos"
+
+msgid "Main color"
+msgstr "Couleur principale"
+
+msgid "Custom background"
+msgstr "Fond personnalisé"
+
+msgid "Background settings"
+msgstr "Paramètres du fond"
+
+msgid "Image"
+msgstr "Image"
+
+msgid "Color"
+msgstr "Couleur"
+
+msgid "Repeat"
+msgstr "Répétition"
+
+msgid "Attachment"
+msgstr "Attachement"
+
+msgid "Use logo image"
+msgstr "Utiliser une image logo"
+
+msgid "Icon logo settings"
+msgstr "Paramètres de l'icône logo"
+
+msgid "Icon logo"
+msgstr "Icône logo"
+
+msgid "Text logo settings"
+msgstr "Paramètres texte logo"
+
+msgid "Text logo"
+msgstr "Texte logo"
+
+msgid "Font family"
+msgstr "Police"
+
+msgid "Font size"
+msgstr "Taille"
+
+msgid "Image logo file"
+msgstr "Fichier logo image"
+
+msgid "Image logo"
+msgstr "Logo image"
+
+msgid "Image logo settings"
+msgstr "Paramètre logo image"
+
+msgid "Max width"
+msgstr "Largeur max"
+
+msgid "Max height"
+msgstr "Hauteur max"
+
+msgid "Margin top"
+msgstr "Marge haut"
+
+msgid "Margin left"
+msgstr "Marge gauche"
+
+msgid "Show text slogan"
+msgstr "Montrer slogan texte"
+
+msgid "Text slogan"
+msgstr "Slogan texte"
+
+msgid "Favicon"
+msgstr "Favicon"
+
+msgid "Show social profiles"
+msgstr "Montrer profils sociaux"
+
+msgid "Your social profiles"
+msgstr "Vos profils sociaux"
+
+msgid "Show search bar"
+msgstr "Montrer barre de recherche"
+
+msgid "Video page"
+msgstr "Page vidéo"
+
+msgid "Show carousel of videos"
+msgstr "Montrer carrousel de vidéos"
+
+msgid "Will display featured videos."
+msgstr "Affiche les vidéos en vedette."
+
+msgid "Carousel settings"
+msgstr "Paramètres carrousel"
+
+msgid "Videos amount"
+msgstr "Nombre de vidéos"
+
+msgid "The number of videos displayed in the carousel"
+msgstr "Le nombre de vidéos qui seront affichées dans le carrousel"
+
+msgid "Show video title"
+msgstr "Montrer titre vidéo"
+
+msgid "Video title will be displayed as caption over the thumbnail."
+msgstr "Le titre de la vidéo sera affiché sur la vignette"
+
+msgid "Autoplay"
+msgstr "Autoplay"
+
+msgid "Autoplay will pause when mouse hovers over carousel."
+msgstr "L'autoplay se met sur pause quand la souris passe sur le carrousel"
+
+msgid "Show sidebar"
+msgstr "Montrer colonne"
+
+msgid "<a href=\"%s\">Click here</a> to manage your sidebar with widgets."
+msgstr ""
+"<a href=\"%s\">Cliquez ici</a> pour gérer votre colonne via les widgets."
+
+msgid "Show"
+msgstr "Montrer"
+
+msgid "Video blocks"
+msgstr "Blocs vidéos"
+
+msgid ""
+"<a href=\"%s\">Click here</a> to use video blocks instead of a videos "
+"listing."
+msgstr ""
+"<a href=\"%s\">Cliquez ici</a> pour utiliser des blocs de vidéos à la place "
+"d'un listing."
+
+msgid "Video player"
+msgstr "Lecteur vidéo"
+
+msgid "Works only with %s video player."
+msgstr "Fonctionne uniquement avec le lecteur vidéo %."
+
+msgid "Logo watermark"
+msgstr "Logo watermark"
+
+msgid "Display your logo inside the video player."
+msgstr "Affiche votre logo dans le lecteur vidéo."
+
+msgid "Logo watermark settings"
+msgstr "Paramètres logo watermark"
+
+msgid "Image logo watermark"
+msgstr "Image logo watermark"
+
+msgid "If empty, your main logo image will be used by default."
+msgstr "Si vide, votre logo principal sera utilisé par défaut."
+
+msgid "Logo position"
+msgstr "Position du logo"
+
+msgid "Choose the position of your logo inside the video player."
+msgstr "Choisir la position de votre logo à l'intérieur du lecteur vidéo."
+
+msgid "Grayscale"
+msgstr "Noir et blanc"
+
+msgid "Display tracking button"
+msgstr "Afficher bouton tracking"
+
+msgid "Display a button with your tracking link under the video player."
+msgstr "Affiche un bouton avec un lien de tracking sous le lecteur vidéo."
+
+msgid "Tracking button settings"
+msgstr "Paramètres bouton tracking"
+
+msgid "Icon button"
+msgstr "Icône bouton"
+
+msgid "Tracking button text"
+msgstr "Texte bouton"
+
+msgid "Change the text of the tracking button."
+msgstr "Change le texte du bouton de tracking."
+
+msgid "Video about"
+msgstr "A propos"
+
+msgid "Show description"
+msgstr "Montrer description"
+
+msgid "Show author"
+msgstr "Montrer auteur"
+
+msgid "Show publish date"
+msgstr "Montrer date publication"
+
+msgid "Show actors"
+msgstr "Montrer acteurs"
+
+msgid "Show categories"
+msgstr "Montrer catégories"
+
+msgid "Show tags"
+msgstr "Montrer mots clés"
+
+msgid "Show more settings"
+msgstr "Paramètres en voir plus"
+
+msgid "Truncate description"
+msgstr "Tronquer la description"
+
+msgid "Display a show more link under the description."
+msgstr "Affiche un lien \"En voir plus\" sous la description."
+
+msgid "Video share"
+msgstr "Partage vidéo"
+
+msgid "Display a \"Share\" tab with social networks sharing buttons."
+msgstr ""
+"Affiche un onglet \"Partager\" avec les boutons de partage des réseaux "
+"sociaux."
+
+msgid "Video share settings"
+msgstr "Paramètres partage vidéo"
+
+msgid "Sidebar settings"
+msgstr "Paramètres colonne"
+
+msgid "Sidebar position"
+msgstr "Position colonne"
+
+msgid "Left"
+msgstr "Gauche"
+
+msgid "Right"
+msgstr "Droite"
+
+msgid "Footer columns"
+msgstr "Colonnes footer"
+
+msgid "<a href=\"%s\">Click here</a> to manage your footer with widgets."
+msgstr ""
+"<a href=\"%s\">Cliquez ici</a> pour gérer votre footer via les widgets."
+
+msgid "column"
+msgstr "colonne"
+
+msgid "columns"
+msgstr "colonnes"
+
+msgid "Copyright bar"
+msgstr "Copyright"
+
+msgid "Turn on to display the copyright bar."
+msgstr "Active la partie copyright."
+
+msgid "Copyright settings"
+msgstr "Paramètres copyright"
+
+msgid "Copyright text"
+msgstr "Texte copyright"
+
+msgid "All rights reserved. Powered by"
+msgstr "Tous droits réservés. Propulsé par"
+
+msgid ""
+"Enter the text that displays in the copyright bar. HTML markup can be used."
+msgstr ""
+"Entrez ici le texte qui sera affiché dans la zone copyright. Vous pouvez "
+"utiliser de l'HTML."
+
+msgid "Enable membership"
+msgstr "Activer la zone membres"
+
+msgid ""
+"Enable membership system with login/register feature, user profile, video "
+"submit, etc."
+msgstr ""
+"Active le système de membres avec connexion/création de compte, profil "
+"utilisateur, envoi de vidéos, etc."
+
+msgid ""
+"Allow users to submit videos like on <a href=\"%s\" target=\"_blank\">%s</a> "
+"demo."
+msgstr ""
+"Autorise les utilisateurs à envoyer des vidéos comme sur la démo <a "
+"href=\"%s\" target=\"_blank\">%s</a>."
+
+msgid ""
+"Allow users to modify their profile like on <a href=\"%s\" target=\"_blank\">"
+"%s</a> demo."
+msgstr ""
+"Autorise les utilisateurs à modifier leur profil comme sur la démo <a "
+"href=\"%s\" target=\"_blank\">%s</a>."
+
+msgid "Enable video submission"
+msgstr "Activer l'envoi de vidéo"
+
+msgid "Video submit settings"
+msgstr "Paramètres envoi vidéo"
+
+msgid "Title required"
+msgstr "Titre requis"
+
+msgid "Description required"
+msgstr "Description requis"
+
+msgid "Video URL required"
+msgstr "URL vidéo requis"
+
+msgid "Embed required"
+msgstr "Embed requis"
+
+msgid "Thumbnail URL required"
+msgstr "URL vignette requis"
+
+msgid "Duration required"
+msgstr "Durée requis"
+
+msgid "Membership links"
+msgstr "Liens zone membres"
+
+msgid "Display \"Submit a Video\" link"
+msgstr "Afficher lien \"Envoyer une vidéo\""
+
+msgid "Display \"My Profile\" link"
+msgstr "Afficher lien \"Mon Profil\""
+
+msgid "Display \"My Channel\" link"
+msgstr "Afficher lien \"Ma Chaîne\""
+
+msgid "Enable reCaptcha"
+msgstr "Activer reCaptcha"
+
+msgid ""
+"Enable a Google reCaptcha security code on registration and submit video "
+"page. You can get your reCAPTCHA keys here: <a href=\"%s\" target=\"_blank\">"
+"Google reCaptcha Keys</a>"
+msgstr ""
+"Activer un code de sécurité Google reCaptcha sur les pages de création de "
+"compte et d'envoi de vidéo. Vous pouvez obtenir vos clés reCAPTCHA ici: <a "
+"href=\"%s\" target=\"_blank\"> Google reCaptcha Keys </a>"
+
+msgid "reCaptcha settings"
+msgstr "Paramètres reCaptcha"
+
+msgid "Site key"
+msgstr "Clé site"
+
+msgid "Secret key"
+msgstr "Clé secrète"
+
+msgid "Advertising tabs"
+msgstr "Onglet publicité"
+
+msgid "Desktop"
+msgstr "Desktop"
+
+msgid "Mobile"
+msgstr "Mobile"
+
+msgid "Header ad zone"
+msgstr "Zone pub header"
+
+msgid "Sidebar ad zone"
+msgstr "Zone pub colonne"
+
+msgid "Inside video player ad zone 1"
+msgstr "Zone pub à l'intérieur du lecteur vidéo 1"
+
+msgid "Inside video player ad zone 2"
+msgstr "Zone pub à l'intérieur du lecteur vidéo 2"
+
+msgid "Under video player ad zone"
+msgstr "Zone pub sous le lecteur vidéo"
+
+msgid "Footer ad zone"
+msgstr "Zone pub footer"
+
+msgid "Code tabs"
+msgstr "Onglets code"
+
+msgid "Paste here your Google Analytics following code."
+msgstr "Collez ici votre code de suivi Google Analytics."
+
+msgid "Other scripts"
+msgstr "Autres scripts"
+
+msgid "Paste here your other script codes (eg popup script)."
+msgstr "Collez ici vos autres codes scripts (ex. script de popup)."
+
+msgid ""
+"Paste here your meta codes (for example to verify your domain from a third "
+"party like Google Suite, etc.)"
+msgstr ""
+"Collez ici votre codes meta (par exemple pour vérifier un domaine via un "
+"service tiers comme Google Suite, etc.)"
+
+msgid "Paste here CSS to customize the theme."
+msgstr "Collez ici votre CSS pour personnaliser le thème."
+
+msgid "Dummy content"
+msgstr "Contenu factice"
+
+msgid "Import Mainstream videos"
+msgstr "Importer vidéos mainstream"
+
+msgid "It will create 40 new video <a href=\"%s\">posts</a> in your admin."
+msgstr ""
+"40 nouveaux <a href=\"%s\">articles</a> vidéo seront créés dans votre admin."
+
+msgid "Import Adult videos"
+msgstr "Importer vidéos adultes"
+
+msgid "Pages"
+msgstr "Pages"
+
+msgid ""
+"Display illustrated categories like on <a href=\"%s\" target=\"_blank\">"
+"%s</a> demo."
+msgstr ""
+"Affiche des catégories illustrées comme sur la démo <a href=\"%s\" "
+"target=\"_blank\">%s</a>."
+
+msgid ""
+"Display a tags list like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr ""
+"Affiche une liste de mots clés comme sur la démo <a href=\"%s\" "
+"target=\"_blank\">%s</a>."
+
+msgid ""
+"Display an actors list like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr ""
+"Affiche une liste d'acteurs comme sur la démo <a href=\"%s\" "
+"target=\"_blank\">%s</a>."
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid ""
+"Create a <a href=\"%s\" target=\"_blank\">menu</a> like on <a href=\"%s\" "
+"target=\"_blank\">%s</a> demo."
+msgstr ""
+"Créé un <a href=\"%s\" target=\"_blank\">menu</a> comme sur la démo <a "
+"href=\"%s\" target=\"_blank\">%s</a>."
+
+msgid "Widgets"
+msgstr "Widgets"
+
+msgid ""
+"Create <a href=\"%s\" target=\"_blank\">widgets</a> like on <a href=\"%s\" "
+"target=\"_blank\">%s</a> demo."
+msgstr ""
+"Créé des <a href=\"%s\" target=\"_blank\">widgets</a> comme sur la démo <a "
+"href=\"%s\" target=\"_blank\">%s</a>."
+
+msgid "Data is being imported please be patient..."
+msgstr "Les données sont en cours de téléchargement, merci de patienter..."
+
+msgid "Video submit page created."
+msgstr "Page d'envoi de vidéo créée."
+
+msgid "Have fun!"
+msgstr "Have fun !"
+
+msgid "Profile page created."
+msgstr "Page profil créée."
+
+msgid "Categories page created."
+msgstr "Page catégories créée."
+
+msgid "Tags page created."
+msgstr "Page mots clés créées."
+
+msgid "Actors page created."
+msgstr "Page acteurs créées."
+
+msgid "Menu created."
+msgstr "Menu créé."
+
+msgid "Widgets created."
+msgstr "Widgets créés."
+
+msgid "Actor"
+msgstr "Acteur"
+
+msgid "Actors"
+msgstr "Acteurs"
+
+msgid "Search Actors"
+msgstr "Recherche Acteurs"
+
+msgid "Popular Actors"
+msgstr "Acteurs Populaires"
+
+msgid "All Actors"
+msgstr "Tous les Acteurs"
+
+msgid "Edit Actor"
+msgstr "Modifier Acteur"
+
+msgid "Update Actor"
+msgstr "Mettre à jour Acteur"
+
+msgid "Add New Actor"
+msgstr "Ajouter Nouvel Acteur"
+
+msgid "New Actor Name"
+msgstr "Nouveau Nom Acteur"
+
+msgid "Separate Actors with commas"
+msgstr "Acteurs séparas par des virgules"
+
+msgid "Add or remove Actors"
+msgstr "Ajouter ou supprimer Acteurs"
+
+msgid "Choose from the most used Actors"
+msgstr "Choisissez parmi les Acteurs les plus utilisés"
